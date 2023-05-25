@@ -4,3 +4,4 @@ Factors-in-choosing-a-game-console
 
 ./Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool [YourProjectName] [Development/Debug/Shipping] [Mac]
 
+%UE4_ROOT%/Engine/Build/BatchFiles/Mac/GenerateProjectFiles.sh -project="<Path to .uproject file>"
